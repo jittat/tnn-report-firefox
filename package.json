@@ -1,8 +1,9 @@
 {
-  "name": "tnn-report",
-  "fullName": "tnn-report",
-  "description": "a basic add-on",
-  "author": "",
-  "license": "MPL 2.0",
-  "version": "0.1"
+    "name": "tnn-report", 
+    "license": "MPL 2.0", 
+    "author": "", 
+    "version": "0.1", 
+    "fullName": "tnn-report", 
+    "id": "jid1-OoCSRpfJ0IJ0NA", 
+    "description": "a basic add-on"
 }
