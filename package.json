@@ -5,5 +5,13 @@
     "version": "0.1", 
     "fullName": "tnn-report", 
     "id": "jid1-OoCSRpfJ0IJ0NA", 
-    "description": "a basic add-on"
+    "description": "a basic add-on",
+
+    "preferences": [{
+      "name": "autoReport",
+      "title": "Report automatically without asking?",
+      "description": "Let the add-on report blocked sites without asking confirmation",
+      "type": "bool",
+      "value": false
+    }]
 }
