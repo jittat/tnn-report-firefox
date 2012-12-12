@@ -1,0 +1,5 @@
+var landingPages = ["http://58.97.5.29/annouce/court.html"];
+var servers = ["http://example.com/tnn/"];
+
+exports.landingPages = landingPages;
+exports.servers = servers;
